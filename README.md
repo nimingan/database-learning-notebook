@@ -4,8 +4,8 @@
 
 ## 版本
 实验用的数据库版本如下：
-- `oracle: 12c(12.2.0.1.0)`
-- `mysql: 8.0.19`
+- `Oracle: 12c(12.2.0.1.0)`
+- `MySQL: 8.0.19`
 
 ## 参考手册
 - [Oracle Database Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)
