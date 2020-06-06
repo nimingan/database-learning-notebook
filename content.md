@@ -16,8 +16,9 @@
 ### 数据库访问
 - [MySQL 数据库访问](basic/access/mysql-access.md)
 
-### sql
+### sql 及 sql优化
 - [MySQL : CTE及窗口函数](basic/sql/cte.md)
+- [MySQL : 分析执行计划](basic/sql/mysql-explain.md)
 
 ### 事务和高并发
 
