@@ -19,6 +19,7 @@
 ### sql 及 sql优化
 - [MySQL : CTE及窗口函数](basic/sql/cte.md)
 - [MySQL : 分析执行计划](basic/sql/mysql-explain.md)
+- [MySQL : 索引及sql优化](basic/sql/mysql-sql-tuning.md)
 
 ### 事务和高并发
 
