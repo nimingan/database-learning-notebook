@@ -12,6 +12,7 @@
 ### 数据库
 - [MySQL : 数据库访问](basic/access/mysql-access.md)
 - [MySQL : 存储引擎](basic/database/mysql-engine.md)
+- [MySQL : 日志及复制](basic/database/mysql-log.md)
 
 ### sql 及 sql优化
 - [MySQL : CTE及窗口函数](basic/sql/cte.md)
